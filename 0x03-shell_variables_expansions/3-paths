@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Counting the number of directories in the current path
+echo $PATH | tr ':' '\n' | grep -c ""
+

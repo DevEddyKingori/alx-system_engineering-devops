@@ -1,0 +1,3 @@
+#!/bin/bash
+# Listing al local variables and environment variables and functions
+compgen -A variable -A function -A export 

@@ -1,0 +1,6 @@
+# A script that prints the result of power divided by DIVIDE followed by a new line
+
+#!/bin/bash
+
+echo $((POWER / DIVIDE))
+
