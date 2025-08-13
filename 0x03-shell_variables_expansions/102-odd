@@ -1,2 +1,2 @@
 #!/bin/bash
-while read line$'\n'do echo "$line"$'\n'read skip$'\n'done
+while read line$'\n'do echo "$line"$'\n'read skip$'\n'done 
