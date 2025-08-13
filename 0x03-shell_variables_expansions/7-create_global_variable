@@ -1,5 +1,2 @@
-#!/bin/bash 
-
-# A script that creates a new global variable
-
+#!/bin/bash
 export BEST=School
